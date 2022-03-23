@@ -1,7 +1,7 @@
 from datetime import date
 from urllib.request import urlopen
 
-url = 'https://raw.githubusercontent.com/chu-ise/411A-2022/main/assets/seed'
+url = 'https://raw.githubusercontent.com/chu-ise/assignment-template/main/assets/seed'
 
 def test_attendance():
     today = date.today().strftime("%Y%m%d")
