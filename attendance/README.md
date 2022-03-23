@@ -5,6 +5,7 @@
 3. Commit and push to the GitHub repo.
 
 ```bash
+git add attendance/today.txt
 git commit -m 'attendance check for yyyymmdd'
 git push
 ```
